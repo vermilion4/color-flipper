@@ -122,24 +122,13 @@ p {
   h4 {
     line-height: 1;
   }
+ .nav-bar{
+   padding-left: 15vw;
+   padding-right: 15vw;
+ }
 }
 /*  global classes */
 
-/* section */
-.section {
-  padding: 5rem 0;
-}
-
-.section-center {
-  width: 90vw;
-  margin: 0 auto;
-  max-width: 1170px;
-}
-@media screen and (min-width: 992px) {
-  .section-center {
-    width: 95vw;
-  }
-}
 main {
   min-height: 100vh;
   display: grid;
@@ -172,10 +161,10 @@ nav {
 .nav-bar{
   display: flex;
   justify-content: space-between;
-  margin-left: 2rem;
   align-items: center;
   font-weight: 700;
   font-size: 17px;
+  margin: auto 2rem;
 }
 span{
   margin-right: 1.5rem;
