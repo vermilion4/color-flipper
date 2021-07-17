@@ -172,13 +172,13 @@ nav {
 .nav-bar{
   display: flex;
   justify-content: space-between;
-  margin-left: 4rem;
+  margin-left: 2rem;
   align-items: center;
   font-weight: 700;
   font-size: 17px;
 }
 span{
-  margin-right: 3rem;
+  margin-right: 1.5rem;
 }
 nav a{
   text-decoration: none;
