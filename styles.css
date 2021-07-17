@@ -166,9 +166,7 @@ nav {
   font-size: 17px;
   margin: auto 2rem;
 }
-span{
-  margin-right: 1.5rem;
-}
+
 nav a{
   text-decoration: none;
   font-family: var(--ff-secondary);
